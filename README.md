@@ -13,3 +13,14 @@ In the backend, I config hiberate and connect the spring boot with MySQL databas
 
 Instead of using graphic github, I learned and used Git command to push the code to the remote repo. During that time, I learned how to connect local repo to remote repo.
 How to deal with conficts.
+
+I finish the task such as
+1. Spring boot project
+--> Create a spring boot project
+--> Implementing Rest CRUD 
+--> as the user logins the user name and password should store in the database which is nothing but the POST operation 
+--> Add few parameters for the existing user by creating PUT method by ID 
+--> Create GET by ID and GET ALL methods accordingly 
+--> Create a delete method too, by ID 
+
+I will continue to learn how to use Auth
